@@ -1,22 +1,21 @@
-<h1>Agathos
-</h1>
+<h1>Agathos</h1>
 
 <p>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/agathos.dev.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AgathosDev/agathos.dev.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/agathos.dev.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AgathosDev/agathos.dev.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/agathos.dev.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AgathosDev/agathos.dev.svg">
   
-  <a href="https://github.com/melquisedecfelipe/agathos.dev/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/agathos.dev.svg">
+  <a href="https://github.com/AgathosDev/agathos.dev/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AgathosDev/agathos.dev.svg">
   </a>
 
-  <a href="https://github.com/melquisedecfelipe/agathos.dev/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/agathos.dev.svg">
+  <a href="https://github.com/AgathosDev/agathos.dev/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/AgathosDev/agathos.dev.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/agathos.dev.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/AgathosDev/agathos.dev.svg">
 </p>
 
 <p>
@@ -54,7 +53,7 @@ $ npm run dev
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/agathos.dev/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/AgathosDev/agathos.dev/blob/master/LICENSE) for more information.
 
 ---
 
