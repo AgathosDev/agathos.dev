@@ -58,3 +58,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Agat
 ---
 
 :wave: [Get in touch!](https://www.linkedin.com/company/agathosdev)
+
